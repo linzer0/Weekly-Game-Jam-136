@@ -51,8 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CharacterOne.cs" />
-     <Compile Include="Assets\Scripts\CharacterTwo.cs" />
+     <Compile Include="Assets\Scripts\CharacterControl\CharacterOne.cs" />
+     <Compile Include="Assets\Scripts\CharacterControl\CharacterTwo.cs" />
+     <Compile Include="Assets\Scripts\CharacterControl\GroundChecker.cs" />
+     <Compile Include="Assets\Scripts\CharacterRespawner.cs" />
+     <Compile Include="Assets\Scripts\DeathTrigger.cs" />
+     <Compile Include="Assets\Scripts\FinishTrigger.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
