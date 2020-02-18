@@ -1,14 +1,16 @@
-# TO:DO:
+![](https://github.com/linzer0/Weekly-Game-Jam-136/blob/master/Assets/Sprites/AVEL.png)
+### Puzzle. Logical. Minimalism. 
 
-1. Simple movement
-2. 1 playable level
-3. UI
-	1. Input setting
-	2. Hint
-4. Playable tutorial
-5. Design(for characters)
-6. Video gameplay
-7. Android support
-	1. Local playable(can two player connect & play)
-8. Web version.
-9. Beatifull github page
+This is a small game designed for the weekly game Jam 136, available on Itch.io.
+Jam theme - **Single player co-op**.
+
+[Online playable version](https://linzet.itch.io/avel)
+
+### Screenshots
+![](https://github.com/linzer0/Weekly-Game-Jam-136/blob/master/Screenshoots/Screenshot_1.png)
+![](https://github.com/linzer0/Weekly-Game-Jam-136/blob/master/Screenshoots/Screenshot_2.png)
+![](https://github.com/linzer0/Weekly-Game-Jam-136/blob/master/Screenshoots/Screenshot_3.png)
+
+
+### Credits
+The game developed by **Ameba game**.
