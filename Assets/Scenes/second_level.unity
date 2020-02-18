@@ -746,6 +746,125 @@ GameObject:
   m_PrefabParentObject: {fileID: 1419187081076448, guid: f21005683421dd2419f9d803c5b194d5,
     type: 2}
   m_PrefabInternal: {fileID: 2046537167}
+--- !u!1001 &940186064
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224090231788848728, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1408454140908134, guid: f5507d5312bf314479562a746d97acbc, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114948701565518958, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_Text
+      value: You can jump - "Up arrow"
+      objectReference: {fileID: 0}
+    - target: {fileID: 114948701565518958, guid: f5507d5312bf314479562a746d97acbc,
+        type: 2}
+      propertyPath: m_FontData.m_RichText
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: f5507d5312bf314479562a746d97acbc, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1016294259
 GameObject:
   m_ObjectHideFlags: 0

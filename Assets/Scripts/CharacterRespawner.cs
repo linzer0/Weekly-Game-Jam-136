@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterRespawner : MonoBehaviour {
+public class CharacterRespawner : MonoBehaviour
+{
 
         public Transform respawnZoneCharacterOne;
         public Transform respawnZoneCharacterTwo;
