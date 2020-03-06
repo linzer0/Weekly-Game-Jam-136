@@ -34,6 +34,7 @@ public class CharacterOne : MonoBehaviour
                 {
                         Swap();
                 }
+
         }
 
         void FixedUpdate()

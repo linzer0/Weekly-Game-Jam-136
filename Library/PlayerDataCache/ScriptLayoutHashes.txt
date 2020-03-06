@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-D:/Project/Unity/WeeklyGameJam136/Builds/WebVersion
+D:/Project/Unity/WeeklyGameJam136/Builds/WebVersion_06_03_2020
 SceneListBegin?
 Assets/Scenes/first_level.unity
 Assets/Scenes/second_level.unity

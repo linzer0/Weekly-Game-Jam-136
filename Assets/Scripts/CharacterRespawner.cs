@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CharacterRespawner : MonoBehaviour
 {
-
         public Transform respawnZoneCharacterOne;
         public Transform respawnZoneCharacterTwo;
 
@@ -14,6 +13,14 @@ public class CharacterRespawner : MonoBehaviour
                         gameObject.transform.position = respawnZoneCharacterOne.position;
                 else
                         gameObject.transform.position = respawnZoneCharacterTwo.position;
+        }
+
+        void Update()
+        {
+                if (Input.GetKeyDown(KeyCode.R))
+                {
+                        Application.LoadLevel(Application.loadedLevel);
+                }
         }
 
 }
